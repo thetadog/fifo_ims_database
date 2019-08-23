@@ -11,4 +11,5 @@ cogs for sales will be the cost of items that first entered the inventory.
 
 cogs for returns will be the cost assigned to item that is most recent to the sales date.  
 
+
 Run sql files from 1 to 6 as some procedures have dependency.
