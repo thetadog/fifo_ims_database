@@ -1,4 +1,4 @@
-# fifo_inventory_database_design
+# fifo_design_with_SKU
 
 A simple class project of database design.
 
